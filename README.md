@@ -2,7 +2,9 @@
 
 **网络模型如下：**
 
-![](D:\User\AI_Experiment\Classification\AlexNet.png)
+
+![Uploading AlexNet.png…]()
+
 
 这是一个图像二分类问题，主要解决对肺部X-Ray的医学影像数据进行分类预测，判断该患者的肺部状态为normal还是pneumonia，该项目选择了AlexNet网络结构，该网络结构简单，可以满足电脑对深度学习的要求。
 
@@ -12,7 +14,9 @@
 
 经过多次训练，发现AlexModel_V11.pth、AlexModel_V21.pth的测试准确度最高，test_acc = 0.9375
 
-![](D:\User\AI_Experiment\Classification\AlexNet_V3\test_resualt.png)
+
+![test_resualt](https://github.com/Y-nk-FE/AlexNet/assets/107013750/09b3f26d-e97e-45e4-98a6-d57bf2341e5c)
+
 
 ---
 
