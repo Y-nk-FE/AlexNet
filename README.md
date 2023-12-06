@@ -61,6 +61,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 作者已经完善代码中的路径，在环境配置好的情况下应该可以直接运行
 
-若有遗漏的错误请指出，有问题请直接联系作责
+若有遗漏的错误请指出，有问题请直接联系作者
 
 Email：y_years@126.com
