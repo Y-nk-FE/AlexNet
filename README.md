@@ -2,8 +2,8 @@
 
 **网络模型如下：**
 
+![AlexNet](https://github.com/Y-nk-FE/AlexNet/assets/107013750/8e1fb1c9-fc8a-45b9-b580-2b08c4007b17)
 
-![Uploading AlexNet.png…]()
 
 
 这是一个图像二分类问题，主要解决对肺部X-Ray的医学影像数据进行分类预测，判断该患者的肺部状态为normal还是pneumonia，该项目选择了AlexNet网络结构，该网络结构简单，可以满足电脑对深度学习的要求。
