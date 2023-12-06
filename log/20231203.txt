@@ -1,0 +1,383 @@
+E:\Anaconda3\setup_path\envs\pytorch\python.exe D:/User/AI_Experiment/Classification/AlexNet_V3/train.py
+date:2023.12.3
+----------------------------------------------------------------------------------------------------------------
+AlexNet_V11,epoch=10,lr=0.0001
+epoch0/9
+Validating: 100%[**************************************************->]0.0280 Train Loss: 0.2212 Train acc:0.9074
+0 Val Loss:0.1217 Val acc:0.9515
+训练耗时13.0min46.9s/epoch
+epoch1/9
+Validating: 100%[**************************************************->]0.1261 Train Loss: 0.0926 Train acc:0.9653
+1 Val Loss:0.0543 Val acc:0.9802
+训练耗时27.0min28.3s/epoch
+epoch2/9
+Validating: 100%[**************************************************->]0.0082 Train Loss: 0.0635 Train acc:0.9766
+2 Val Loss:0.0561 Val acc:0.9778
+训练耗时41.0min4.3s/epoch
+epoch3/9
+Validating: 100%[**************************************************->]0.0323 Train Loss: 0.0431 Train acc:0.9846
+3 Val Loss:0.0305 Val acc:0.9887
+训练耗时54.0min50.4s/epoch
+epoch4/9
+Validating: 100%[**************************************************->]0.0014 Train Loss: 0.0352 Train acc:0.9873
+4 Val Loss:0.0287 Val acc:0.9900
+训练耗时68.0min44.0s/epoch
+epoch5/9
+Validating: 100%[**************************************************->]0.0045 Train Loss: 0.0305 Train acc:0.9890
+5 Val Loss:0.0156 Val acc:0.9947
+训练耗时82.0min28.7s/epoch
+epoch6/9
+Validating: 100%[**************************************************->]0.0036 Train Loss: 0.0242 Train acc:0.9905
+6 Val Loss:0.0175 Val acc:0.9936
+训练耗时96.0min7.0s/epoch
+epoch7/9
+Validating: 100%[**************************************************->]0.0007 Train Loss: 0.0202 Train acc:0.9926
+7 Val Loss:0.0168 Val acc:0.9938
+训练耗时109.0min46.6s/epoch
+epoch8/9
+Validating: 100%[**************************************************->]0.0028 Train Loss: 0.0218 Train acc:0.9916
+8 Val Loss:0.0090 Val acc:0.9964
+训练耗时123.0min39.8s/epoch
+epoch9/9
+Validating: 100%[**************************************************->]0.0009 Train Loss: 0.0112 Train acc:0.9957
+9 Val Loss:0.0120 Val acc:0.9954
+训练耗时137.0min23.5s/epoch
+
+----------------------------------------------------------------------------------------------------------------
+AlexNet_V12,epoch=10,lr=0.0003
+epoch0/9
+Validating: 100%[**************************************************->]0.0090 Train Loss: 0.0634 Train acc:0.9775
+0 Val Loss:0.0568 Val acc:0.9851
+训练耗时13.0min41.0s/epoch
+epoch1/9
+Validating: 100%[**************************************************->]0.0061 Train Loss: 0.0470 Train acc:0.9816
+1 Val Loss:0.0216 Val acc:0.9921
+训练耗时27.0min17.2s/epoch
+epoch2/9
+Validating: 100%[**************************************************->]0.0132 Train Loss: 0.0385 Train acc:0.9859
+2 Val Loss:0.0289 Val acc:0.9902
+训练耗时41.0min11.2s/epoch
+epoch3/9
+Validating: 100%[**************************************************->]0.0003 Train Loss: 0.0394 Train acc:0.9868
+3 Val Loss:0.0154 Val acc:0.9944
+训练耗时55.0min0.6s/epoch
+epoch4/9
+Validating: 100%[**************************************************->]0.0014 Train Loss: 0.0344 Train acc:0.9878
+4 Val Loss:0.0456 Val acc:0.9840
+训练耗时68.0min42.2s/epoch
+epoch5/9
+Validating: 100%[**************************************************->]0.0365 Train Loss: 0.0414 Train acc:0.9866
+5 Val Loss:0.0621 Val acc:0.9786
+训练耗时82.0min19.5s/epoch
+epoch6/9
+Validating: 100%[**************************************************->]0.0076 Train Loss: 0.0248 Train acc:0.9921
+6 Val Loss:0.0289 Val acc:0.9901
+训练耗时96.0min7.1s/epoch
+epoch7/9
+Validating: 100%[**************************************************->]0.1527 Train Loss: 0.0257 Train acc:0.9911
+7 Val Loss:0.0292 Val acc:0.9906
+训练耗时110.0min1.2s/epoch
+epoch8/9
+Validating: 100%[**************************************************->]0.0008 Train Loss: 0.0230 Train acc:0.9924
+8 Val Loss:0.0134 Val acc:0.9951
+训练耗时123.0min47.3s/epoch
+epoch9/9
+Validating: 100%[**************************************************->]0.0009 Train Loss: 0.0229 Train acc:0.9928
+9 Val Loss:0.0085 Val acc:0.9974
+训练耗时137.0min26.2s/epoch
+
+----------------------------------------------------------------------------------------------------------------
+AlexNet_V13,epoch=10,lr=0.0005
+epoch0/9
+Validating: 100%[**************************************************->]0.0020 Train Loss: 0.0777 Train acc:0.9766
+0 Val Loss:0.0469 Val acc:0.9829
+训练耗时13.0min43.9s/epoch
+epoch1/9
+Validating: 100%[**************************************************->]0.0681 Train Loss: 0.0488 Train acc:0.9842
+1 Val Loss:0.0479 Val acc:0.9849
+训练耗时27.0min39.1s/epoch
+epoch2/9
+Validating: 100%[**************************************************->]0.0022 Train Loss: 0.0580 Train acc:0.9821
+2 Val Loss:0.0342 Val acc:0.9877
+训练耗时41.0min23.4s/epoch
+epoch3/9
+Validating: 100%[**************************************************->]0.2613 Train Loss: 0.0370 Train acc:0.9878
+3 Val Loss:0.0355 Val acc:0.9883
+训练耗时55.0min4.4s/epoch
+epoch4/9
+Validating: 100%[**************************************************->]0.0174 Train Loss: 0.0631 Train acc:0.9807
+4 Val Loss:0.0298 Val acc:0.9901
+训练耗时68.0min41.4s/epoch
+epoch5/9
+Validating: 100%[**************************************************->]0.0095 Train Loss: 0.0590 Train acc:0.9811
+5 Val Loss:0.0591 Val acc:0.9812
+训练耗时82.0min27.5s/epoch
+epoch6/9
+Validating: 100%[**************************************************->]0.0006 Train Loss: 0.0409 Train acc:0.9867
+6 Val Loss:0.0743 Val acc:0.9776
+训练耗时96.0min20.7s/epoch
+epoch7/9
+Validating: 100%[**************************************************->]0.0157 Train Loss: 0.0563 Train acc:0.9826
+7 Val Loss:0.0558 Val acc:0.9835
+训练耗时110.0min6.0s/epoch
+epoch8/9
+Validating: 100%[**************************************************->]0.0008 Train Loss: 0.0420 Train acc:0.9867
+8 Val Loss:0.0255 Val acc:0.9897
+训练耗时123.0min39.6s/epoch
+epoch9/9
+Validating: 100%[**************************************************->]0.0889 Train Loss: 0.1749 Train acc:0.9429
+9 Val Loss:0.0935 Val acc:0.9631
+训练耗时137.0min19.4s/epoch
+
+----------------------------------------------------------------------------------------------------------------
+AlexNet_V11,epoch=10,lr=0.0007
+epoch0/9
+Validating: 100%[**************************************************->]0.0000 Train Loss: 0.1385 Train acc:0.9616
+0 Val Loss:0.0731 Val acc:0.9748
+训练耗时13.0min55.8s/epoch
+epoch1/9
+Validating: 100%[**************************************************->]0.1111 Train Loss: 0.1045 Train acc:0.9684
+1 Val Loss:0.1455 Val acc:0.9555
+训练耗时27.0min47.0s/epoch
+epoch2/9
+Validating: 100%[**************************************************->]0.2882 Train Loss: 0.5919 Train acc:0.7785
+2 Val Loss:0.5710 Val acc:0.7429
+训练耗时41.0min27.7s/epoch
+epoch3/9
+Validating: 100%[**************************************************->]0.3113 Train Loss: 0.5708 Train acc:0.7429
+3 Val Loss:0.5704 Val acc:0.7429
+训练耗时55.0min8.4s/epoch
+epoch4/9
+Validating: 100%[**************************************************->]0.3014 Train Loss: 0.5711 Train acc:0.7429
+4 Val Loss:0.5705 Val acc:0.7429
+训练耗时69.0min6.1s/epoch
+epoch5/9
+Validating: 100%[**************************************************->]0.3245 Train Loss: 0.5709 Train acc:0.7429
+5 Val Loss:0.5713 Val acc:0.7429
+训练耗时82.0min57.9s/epoch
+epoch6/9
+Validating: 100%[**************************************************->]0.2816 Train Loss: 0.5708 Train acc:0.7429
+6 Val Loss:0.5710 Val acc:0.7429
+训练耗时96.0min45.1s/epoch
+epoch7/9
+Validating: 100%[**************************************************->]0.3127 Train Loss: 0.5707 Train acc:0.7429
+7 Val Loss:0.5705 Val acc:0.7429
+训练耗时110.0min27.4s/epoch
+epoch8/9
+Validating: 100%[**************************************************->]0.2988 Train Loss: 0.5706 Train acc:0.7429
+8 Val Loss:0.5703 Val acc:0.7429
+训练耗时124.0min19.0s/epoch
+epoch9/9
+Validating: 100%[**************************************************->]0.2749 Train Loss: 0.5705 Train acc:0.7429
+9 Val Loss:0.5710 Val acc:0.7429
+训练耗时138.0min15.4s/epoch
+
+----------------------------------------------------------------------------------------------------------------
+AlexNet_V15,epoch=10,lr=0.001
+epoch0/9
+Validating: 100%[**************************************************->]0.0220 Train Loss: 0.2353 Train acc:0.9346
+0 Val Loss:0.1796 Val acc:0.9408
+训练耗时13.0min48.9s/epoch
+epoch1/9
+Validating: 100%[**************************************************->]0.3461 Train Loss: 0.3858 Train acc:0.8615
+1 Val Loss:0.5789 Val acc:0.7433
+训练耗时27.0min31.5s/epoch
+epoch2/9
+Validating: 100%[**************************************************->]0.3072 Train Loss: 0.5716 Train acc:0.7518
+2 Val Loss:0.5704 Val acc:0.7429
+训练耗时41.0min21.8s/epoch
+epoch3/9
+Validating: 100%[**************************************************->]0.3033 Train Loss: 0.5705 Train acc:0.7429
+3 Val Loss:0.5704 Val acc:0.7429
+训练耗时55.0min10.0s/epoch
+epoch4/9
+Validating: 100%[**************************************************->]0.2904 Train Loss: 0.5703 Train acc:0.7429
+4 Val Loss:0.5700 Val acc:0.7429
+训练耗时69.0min0.3s/epoch
+epoch5/9
+Validating: 100%[**************************************************->]0.3005 Train Loss: 0.5704 Train acc:0.7429
+5 Val Loss:0.5703 Val acc:0.7429
+训练耗时82.0min39.8s/epoch
+epoch6/9
+Validating: 100%[**************************************************->]0.3096 Train Loss: 0.5704 Train acc:0.7429
+6 Val Loss:0.5702 Val acc:0.7429
+训练耗时96.0min35.0s/epoch
+epoch7/9
+Validating: 100%[**************************************************->]0.2937 Train Loss: 0.5703 Train acc:0.7429
+7 Val Loss:0.5701 Val acc:0.7429
+训练耗时110.0min24.0s/epoch
+epoch8/9
+Validating: 100%[**************************************************->]0.2988 Train Loss: 0.5703 Train acc:0.7429
+8 Val Loss:0.5701 Val acc:0.7429
+训练耗时124.0min3.4s/epoch
+epoch9/9
+Validating: 100%[**************************************************->]0.3109 Train Loss: 0.5701 Train acc:0.7429
+9 Val Loss:0.5708 Val acc:0.7429
+训练耗时137.0min38.2s/epoch
+
+----------------------------------------------------------------------------------------------------------------
+AlexNet_V21,epoch=20,lr=0.0001
+epoch0/19
+Validating: 100%[**************************************************->]0.0020 Train Loss: 0.0785 Train acc:0.9718
+0 Val Loss:0.0404 Val acc:0.9844
+训练耗时13.0min47.3s/epoch
+epoch1/19
+Validating: 100%[**************************************************->]0.0331 Train Loss: 0.0357 Train acc:0.9870
+1 Val Loss:0.0313 Val acc:0.9891
+训练耗时27.0min42.0s/epoch
+epoch2/19
+Validating: 100%[**************************************************->]0.0012 Train Loss: 0.0233 Train acc:0.9922
+2 Val Loss:0.0158 Val acc:0.9941
+训练耗时41.0min32.1s/epoch
+epoch3/19
+Validating: 100%[**************************************************->]0.0013 Train Loss: 0.0163 Train acc:0.9941
+3 Val Loss:0.0110 Val acc:0.9957
+训练耗时55.0min17.8s/epoch
+epoch4/19
+Validating: 100%[**************************************************->]0.0004 Train Loss: 0.0114 Train acc:0.9956
+4 Val Loss:0.0094 Val acc:0.9970
+训练耗时68.0min52.3s/epoch
+epoch5/19
+Validating: 100%[**************************************************->]0.0005 Train Loss: 0.0137 Train acc:0.9957
+5 Val Loss:0.0193 Val acc:0.9920
+训练耗时82.0min26.7s/epoch
+epoch6/19
+Validating: 100%[**************************************************->]0.0016 Train Loss: 0.0149 Train acc:0.9969
+6 Val Loss:0.0190 Val acc:0.9936
+训练耗时96.0min19.5s/epoch
+epoch7/19
+Validating: 100%[**************************************************->]0.0007 Train Loss: 0.0111 Train acc:0.9964
+7 Val Loss:0.0039 Val acc:0.9987
+训练耗时109.0min59.9s/epoch
+epoch8/19
+Validating: 100%[**************************************************->]0.0008 Train Loss: 0.0079 Train acc:0.9977
+8 Val Loss:0.0115 Val acc:0.9968
+训练耗时123.0min32.8s/epoch
+epoch9/19
+Validating: 100%[**************************************************->]0.0009 Train Loss: 0.0059 Train acc:0.9979
+9 Val Loss:0.0016 Val acc:0.9996
+训练耗时137.0min11.6s/epoch
+epoch10/19
+Validating: 100%[**************************************************->]0.00010 Train Loss: 0.0048 Train acc:0.9986
+10 Val Loss:0.0027 Val acc:0.9991
+训练耗时151.0min3.2s/epoch
+epoch11/19
+Validating: 100%[**************************************************->]0.00111 Train Loss: 0.0211 Train acc:0.9962
+11 Val Loss:0.0115 Val acc:0.9957
+训练耗时164.0min47.5s/epoch
+epoch12/19
+Validating: 100%[**************************************************->]0.00012 Train Loss: 0.0066 Train acc:0.9975
+12 Val Loss:0.0070 Val acc:0.9974
+训练耗时178.0min31.9s/epoch
+epoch13/19
+Validating: 100%[**************************************************->]0.00013 Train Loss: 0.0042 Train acc:0.9989
+13 Val Loss:0.0028 Val acc:0.9993
+训练耗时192.0min16.8s/epoch
+epoch14/19
+Validating: 100%[**************************************************->]0.00014 Train Loss: 0.0078 Train acc:0.9977
+14 Val Loss:0.0027 Val acc:0.9990
+训练耗时206.0min8.0s/epoch
+epoch15/19
+Validating: 100%[**************************************************->]0.00015 Train Loss: 0.0015 Train acc:0.9994
+15 Val Loss:0.0017 Val acc:0.9995
+训练耗时220.0min5.2s/epoch
+epoch16/19
+Validating: 100%[**************************************************->]0.00016 Train Loss: 0.0068 Train acc:0.9982
+16 Val Loss:0.0067 Val acc:0.9977
+训练耗时233.0min53.0s/epoch
+epoch17/19
+Validating: 100%[**************************************************->]0.00017 Train Loss: 0.0068 Train acc:0.9980
+17 Val Loss:0.0043 Val acc:0.9985
+训练耗时247.0min30.2s/epoch
+epoch18/19
+Validating: 100%[**************************************************->]0.00018 Train Loss: 0.0066 Train acc:0.9986
+18 Val Loss:0.0158 Val acc:0.9947
+训练耗时261.0min11.7s/epoch
+epoch19/19
+Validating: 100%[**************************************************->]0.00019 Train Loss: 0.0065 Train acc:0.9975
+19 Val Loss:0.0298 Val acc:0.9974
+训练耗时275.0min7.1s/epoch
+
+----------------------------------------------------------------------------------------------------------------
+AlexNet_V22,epoch=20,lr=0.0003
+epoch0/19
+Validating: 100%[**************************************************->]0.0000 Train Loss: 0.0445 Train acc:0.9885
+0 Val Loss:0.0220 Val acc:0.9914
+训练耗时13.0min56.1s/epoch
+epoch1/19
+Validating: 100%[**************************************************->]0.0011 Train Loss: 0.0468 Train acc:0.9864
+1 Val Loss:0.0151 Val acc:0.9949
+训练耗时27.0min41.9s/epoch
+epoch2/19
+Validating: 100%[**************************************************->]0.0002 Train Loss: 0.0421 Train acc:0.9860
+2 Val Loss:0.0147 Val acc:0.9944
+训练耗时41.0min27.0s/epoch
+epoch3/19
+Validating: 100%[**************************************************->]0.0023 Train Loss: 0.0571 Train acc:0.9812
+3 Val Loss:0.0420 Val acc:0.9849
+训练耗时55.0min14.2s/epoch
+epoch4/19
+Validating: 100%[**************************************************->]0.0034 Train Loss: 0.0425 Train acc:0.9860
+4 Val Loss:0.0341 Val acc:0.9879
+训练耗时69.0min1.1s/epoch
+epoch5/19
+Validating: 100%[**************************************************->]0.0125 Train Loss: 0.0236 Train acc:0.9916
+5 Val Loss:0.0157 Val acc:0.9950
+训练耗时82.0min43.9s/epoch
+epoch6/19
+Validating: 100%[**************************************************->]0.0046 Train Loss: 0.0276 Train acc:0.9916
+6 Val Loss:0.0178 Val acc:0.9938
+训练耗时96.0min25.4s/epoch
+epoch7/19
+Validating: 100%[**************************************************->]0.0007 Train Loss: 0.0405 Train acc:0.9883
+7 Val Loss:0.0099 Val acc:0.9964
+训练耗时110.0min14.8s/epoch
+epoch8/19
+Validating: 100%[**************************************************->]0.0008 Train Loss: 0.0239 Train acc:0.9926
+8 Val Loss:0.0128 Val acc:0.9952
+训练耗时124.0min6.9s/epoch
+epoch9/19
+Validating: 100%[**************************************************->]0.0019 Train Loss: 0.0283 Train acc:0.9926
+9 Val Loss:0.0319 Val acc:0.9908
+训练耗时137.0min57.1s/epoch
+epoch10/19
+Validating: 100%[**************************************************->]0.16810 Train Loss: 0.0306 Train acc:0.9912
+10 Val Loss:0.0390 Val acc:0.9862
+训练耗时151.0min30.7s/epoch
+epoch11/19
+Validating: 100%[**************************************************->]0.00011 Train Loss: 0.0347 Train acc:0.9908
+11 Val Loss:0.0236 Val acc:0.9937
+训练耗时165.0min9.7s/epoch
+epoch12/19
+Validating: 100%[**************************************************->]0.00212 Train Loss: 0.0375 Train acc:0.9906
+12 Val Loss:0.0172 Val acc:0.9934
+训练耗时179.0min2.6s/epoch
+epoch13/19
+Validating: 100%[**************************************************->]0.03613 Train Loss: 0.0411 Train acc:0.9900
+13 Val Loss:0.0309 Val acc:0.9888
+训练耗时192.0min44.6s/epoch
+epoch14/19
+Validating: 100%[**************************************************->]0.00014 Train Loss: 0.0211 Train acc:0.9928
+14 Val Loss:0.0056 Val acc:0.9984
+训练耗时206.0min22.5s/epoch
+epoch15/19
+Validating: 100%[**************************************************->]0.00015 Train Loss: 0.0113 Train acc:0.9960
+15 Val Loss:0.0054 Val acc:0.9982
+训练耗时220.0min1.3s/epoch
+epoch16/19
+Validating: 100%[**************************************************->]0.00016 Train Loss: 0.0135 Train acc:0.9960
+16 Val Loss:0.0053 Val acc:0.9980
+训练耗时233.0min54.6s/epoch
+epoch17/19
+Validating: 100%[**************************************************->]0.00017 Train Loss: 0.0214 Train acc:0.9940
+17 Val Loss:0.0099 Val acc:0.9969
+训练耗时247.0min42.3s/epoch
+epoch18/19
+Validating: 100%[**************************************************->]0.00618 Train Loss: 0.0238 Train acc:0.9942
+18 Val Loss:0.0478 Val acc:0.9913
+训练耗时261.0min23.8s/epoch
+epoch19/19
+Validating: 100%[**************************************************->]0.00019 Train Loss: 0.0183 Train acc:0.9942
+19 Val Loss:0.0140 Val acc:0.9961
+训练耗时275.0min0.6s/epoch
+
