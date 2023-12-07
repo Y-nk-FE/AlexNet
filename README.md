@@ -22,6 +22,7 @@
 
 ##### 项目文件说明
 
+（文件解压后放在AlexNet目录下，并删除压缩文件）
 Chest_XRay：原始数据文件，其中包含训练集、验证集、测试集(from kaggle)
 
 data_enhance：已经对Chest_XRay中的训练集进行过随机数据增强的文件
