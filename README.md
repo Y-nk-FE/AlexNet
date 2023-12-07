@@ -33,6 +33,10 @@ data_enhance：已经对Chest_XRay中的训练集进行过随机数据增强的�
 
 由于数据过于庞大，不方便上传至GitHub，目前将数据上传到了百度网盘
 
+链接：https://pan.baidu.com/s/1ZCntP8defvaWcXxxOMUcPg 
+提取码：Alex 
+--来自百度网盘超级会员V4的分享
+
 log：用于存放模型训练的日志
 
 plt：用于存放acc和loss的折线图
