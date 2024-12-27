@@ -29,13 +29,15 @@ Chest_XRay：原始数据文件，其中包含训练集、验证集、测试集(
 
 data_enhance：已经对Chest_XRay中的训练集进行过随机数据增强的文件
 
-**数据说明**
+**训练数据说明**
 
 由于数据过于庞大，不方便上传至GitHub，目前将数据上传到了百度网盘
 
 链接：https://pan.baidu.com/s/1ZCntP8defvaWcXxxOMUcPg 
 提取码：Alex 
 --来自百度网盘超级会员V4的分享
+
+##### 仓库文件及目录说明
 
 log：用于存放模型训练的日志
 
